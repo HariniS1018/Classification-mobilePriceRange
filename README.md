@@ -25,17 +25,17 @@ Dataset has 21 features and 2000 entries. The meanings of the features are given
   9. mobile_wt: Weight of mobile phone
   10.n_cores: Number of cores of processor
 
-  pc: Primary Camera mega pixels.
-  px_height: Pixel Resolution Height.
-  px_width: Pixel Resolution Width.
-  ram: Random Access Memory in Mega Bytes.
-  sc_h: Screen Height of mobile in cm.
-  sc_w: Screen Width of mobile in cm.
-  talk_time: longest time that a single battery charge will last when you are.
-  three_g: Has 3G or not.
-  touch_screen: Has touch screen or not.
-  wifi: Has wifi or not.
-  price_range: This is the target variable with value of 0(low cost), 1(medium cost), 2(high cost) and 3(very high cost).
+  1. pc: Primary Camera mega pixels.
+  2. px_height: Pixel Resolution Height.
+  3. px_width: Pixel Resolution Width.
+  4. ram: Random Access Memory in Mega Bytes.
+  5. sc_h: Screen Height of mobile in cm.
+  6. sc_w: Screen Width of mobile in cm.
+  7. talk_time: longest time that a single battery charge will last when you are.
+  8. three_g: Has 3G or not.
+  9. touch_screen: Has touch screen or not.
+  10. wifi: Has wifi or not.
+  11. price_range: This is the target variable with value of 0(low cost), 1(medium cost), 2(high cost) and 3(very high cost).
 
 ### Steps to consider:
 1. Remove handle null values (if any).
