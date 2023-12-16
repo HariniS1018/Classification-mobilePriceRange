@@ -1,9 +1,9 @@
 # ML-classification-mobilePriceRange
 ------------------------------------
-# Project Name:
+## Project Name:
 Machine Learning December Minor Project
 
-# Project Description:
+## Project Description:
 Problem statement: Create a classification model to predict whether price range of mobile based on certain specifications
 
 # Context: 
